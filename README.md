@@ -1,4 +1,4 @@
 # hello-world
 My first repository on github  
 Hello,
-I like Python and django and daily learning to develop a super AI system which will benefit both student and teacher.
+I am CS UnderGrad passionate about web and mobile technology with an integration with supercool tech like AI, Blockchain and IOT.
